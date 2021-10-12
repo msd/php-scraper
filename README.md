@@ -1,9 +1,3 @@
-
-    Include unit tests.
-    Include a README.md file in the root describing how to run the app, how to run tests and any dependencies needed from the system
-    The application should preferably be written in PHP
-    Be uploaded to a code repository such as https://github.com/ please do not send you submissions via email.
-
 # Requirements
 
 * PHP v8.0 or newer (extensions=mbstring, openssl)
